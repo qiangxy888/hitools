@@ -80,11 +80,24 @@ const tools = [
     users: 'New',
     badge: 'SaaS',
   },
+  {
+    name: 'SnapOG',
+    tagline: 'Free OG Image Generator',
+    description: 'Create beautiful Open Graph images for social sharing. 12 templates, URL API, instant preview.',
+    icon: '🖼️',
+    color: 'from-orange-400 to-orange-600',
+    bgLight: 'bg-orange-50',
+    textColor: 'text-orange-500',
+    url: 'https://snapog.com',
+    features: ['12 Templates', 'URL API', 'Live Preview', 'One-click Download'],
+    users: 'New',
+    badge: 'API',
+  },
 ];
 
 const stats = [
-  { label: 'Free Tools', value: '6' },
-  { label: 'SEO Articles', value: '65+' },
+  { label: 'Free Tools', value: '7' },
+  { label: 'SEO Articles', value: '75+' },
   { label: 'Lines of Code', value: '12K+' },
   { label: 'Monthly Cost', value: '$0' },
 ];
